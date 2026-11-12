@@ -47,7 +47,7 @@ Proyecto Integrador — *Tecnologías de Internet*, Ingeniería de Sistemas, Uni
 
 ```bash
 # 1. Clonar
-git clone https://github.com/<usuario>/sistema-academico-escolar.git
+git clone https://github.com/jazmincielo/sistema-academico-escolar.git
 cd sistema-academico-escolar
 
 # 2. Backend
